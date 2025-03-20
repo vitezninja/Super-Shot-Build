@@ -1,7 +1,7 @@
 # Használati útmutató  
 
 ## Rövid leírás
-Ez a játék Tóth Benedek Vitéz szakdolgozat. A játék egy egyszerű 3D-s belső nézetű (FPS) lövöldözős játék. A játék célja, hogy megöld az összes piros fickót.
+Ez a játék Tóth Benedek Vitéz szakdolgozata. A játék egy egyszerű 3D-s belső nézetű (FPS) lövöldözős játék. A játék célja, hogy megöld az összes piros fickót.
 
 ## Fontos infók  
 **A program csak Windows operációs rendszeren működik.**  
