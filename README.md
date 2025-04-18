@@ -49,7 +49,7 @@ Ezt fogadjuk el, mert minden nem megbízható programnál ez megjelenik.
 Az első elínditás lehet, hogy egy kicsit több ideig eltarthat. Kérlek legyél türelmes ne probáld megint elinditani mert akkor kétszer fog futni a program.
 
 ## Irányitás
-A játékot a `WASD` mozgási gombokkal tudod irányítani. A `bal egérgombbal` tudsz ütni, lőni a fegyvereddel, és ha még nincs nálad semmi, felvenni egy tárgyat. Bár az ütésnek nincs animációja, megtörténik. Ha fegyver van nálad, a `jobb egérgombbal` tudod eldobni azt. Az `Escape` gombbal tudod megállítani a játékot.
+A játékot a `WASD` mozgási gombokkal tudod irányítani. A `bal egérgombbal` tudsz lőni a fegyvereddel, és ha még nincs nálad semmi, felvenni egy tárgyat. Ha fegyver van nálad, a `jobb egérgombbal` tudod eldobni azt. Az `Escape` gombbal tudod megállítani a játékot.
 
 ## Véleményezés  
 Kérlek, hogy a véleményedben őszintén és kritikusan írj. Ha valami nem tetszett, és megírod, az nem fog megbántani.  
